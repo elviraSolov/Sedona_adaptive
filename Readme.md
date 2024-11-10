@@ -18,7 +18,7 @@ npm install
 ```
 Затем запустите Development сервер:
 ```
-npm run dev
+npm run start
 ```
 
 ## Скриншоты
